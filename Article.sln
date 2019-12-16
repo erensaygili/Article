@@ -15,7 +15,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Article.Common", "Article.C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Article.Repository", "Article.Repository\Article.Repository.csproj", "{E038EE1B-780C-4A8F-8581-D290FA2BBDC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Article.Api", "Article.Api\Article.Api.csproj", "{00265386-301B-4D24-A3F3-0455F14B7178}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Article.Api", "Article.Api\Article.Api.csproj", "{00265386-301B-4D24-A3F3-0455F14B7178}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Script", "Script", "{AF0B8C53-F767-4D5A-8A34-66E4381E0FB2}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\source\repos\MyProject\New folder (3)\DigiArticle.mdf = ..\..\..\source\repos\MyProject\New folder (3)\DigiArticle.mdf
+		..\..\..\source\repos\MyProject\New folder (3)\DigiArticle_log.ldf = ..\..\..\source\repos\MyProject\New folder (3)\DigiArticle_log.ldf
+		..\..\..\source\repos\MyProject\New folder (3)\script.sql = ..\..\..\source\repos\MyProject\New folder (3)\script.sql
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
