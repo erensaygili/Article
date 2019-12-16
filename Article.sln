@@ -17,13 +17,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Article.Repository", "Artic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Article.Api", "Article.Api\Article.Api.csproj", "{00265386-301B-4D24-A3F3-0455F14B7178}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D07F15F6-C4C6-4B65-A348-1A57A9DF198F}"
-	ProjectSection(SolutionItems) = preProject
-		DigiArticle\DigiArticle.mdf = DigiArticle\DigiArticle.mdf
-		DigiArticle\DigiArticle_log.ldf = DigiArticle\DigiArticle_log.ldf
-		DigiArticle\script.sql = DigiArticle\script.sql
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
